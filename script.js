@@ -1,19 +1,19 @@
 const songsList = [
     {
-        name: "Who I Am",
-        artist: "Alan Walker",
+        name: "We Can't Be Friends",
+        artist: "Ariana Grande",
         src: "assets/1.mp3",
         cover: "assets/1.jpg"
     },
     {
-        name: "Boboiboy The Movie",
-        artist: "Bunkface",
+        name: "Right Now",
+        artist: "One Direction",
         src: "assets/2.mp3",
         cover: "assets/2.jpg"
     },
     {
-        name: "Di Bawah Langit Yang Sama Kita",
-        artist: "DMASIV",
+        name: "I See The Light",
+        artist: "Tangled",
         src: "assets/3.mp3",
         cover: "assets/3.jpg"
     }
